@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Game</string>
+    <string name="button_mode_easy">Easy</string>
+    <string name="button_mode_hard">Hard</string>
+    <string name="mode_button">Button mode</string>
+    <string name="mode_sensor">Sensor mode</string>
+    <string name="highest_scores">Highest scores</string>
+
+
+</resources>
